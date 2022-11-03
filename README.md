@@ -8,6 +8,6 @@ Based on the background information, Social Buzz is a social media platform wher
 ## Task
 I have merged all the datasets, cleaned and visualise the data using python.
 
-Here's the link to see a rich view of the code: https://nbviewer.org/github.com/mehhyin/accenture_data_analytics_forage/blob/main/Accenture%20(Virtual%20Internship)-%20Data%20Analytics%20%26%20Visualisation.ipynb
+Here's the link to see a rich view of the code: https://nbviewer.org/github/mehhyin/accenture_data_analytics_forage/raw/main/Accenture%20(Virtual%20Internship)-%20Data%20Analytics%20%26%20Visualisation.ipynb
 
 Source: https://www.theforage.com/modules/hzmoNKtzvAzXsEqx8/zjxeuu5mYzBuZw3fe?ref=D9gg2ESnLeyxJNQgv
